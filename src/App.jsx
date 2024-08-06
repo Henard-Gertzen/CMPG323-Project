@@ -1,10 +1,10 @@
-import './App.css';
-import { LoginForm } from './components/LoginForm/LoginForm';
+import React from 'react'
+import { LoginPage } from './pages/LoginPage';
 
 function App() {
   return (
     <main>
-      <LoginForm />
+      <LoginPage />
     </main>
   );
 }
