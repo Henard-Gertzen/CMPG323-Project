@@ -1,19 +1,19 @@
 .navbar {
-    background-color: #fff; /* White background for a clean look */
-    border-bottom: 1px solid #e0e0e0; /* Light border at the bottom */
+    background-color: #fff;
+    border-bottom: 1px solid #e0e0e0;
     color: #333;
     padding: 0.5rem 1rem;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
     position: sticky;
     top: 0;
     z-index: 1000;
   }
   
   .navbar-logo img {
-    height: 40px; /* Adjust the height as needed */
+    height: 40px;
   }
   
   .navbar ul {
@@ -35,6 +35,6 @@
   }
   
   .navbar a:hover {
-    color: #007BFF; /* Interactive hover effect */
+    color: #007BFF;
   }
   
